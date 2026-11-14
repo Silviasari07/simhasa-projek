@@ -103,5 +103,5 @@ Proyek ini disusun untuk memenuhi tugas mata kuliah **Bengkel Pemrograman Framew
 
 1. **Clone repositori ini:**
    ```bash
-   git clone <url-repositori-github-kamu>
-   cd simhasa
+   git clone https://github.com/Silviasari07/simhasa-projek.git
+   cd simhasa-projek
