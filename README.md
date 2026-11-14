@@ -56,3 +56,52 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+# SIMHASA — Sistem Informasi Monitoring Hama & Penyakit Tanaman Kelapa Sawit Berbasis Web
+
+**SIMHASA** adalah aplikasi web yang dirancang untuk membantu pencatatan dan pengelolaan data kebun kelapa sawit, referensi hama, referensi penyakit, serta riwayat monitoring kondisi lapangan secara terstruktur[cite: 16, 19].
+
+Proyek ini disusun untuk memenuhi tugas mata kuliah **Bengkel Pemrograman Framework** pada **Program Studi Teknik Informatika, Politeknik Caltex Riau (2026)**[cite: 16].
+
+---
+
+## Tim Penyusun
+
+* **Silvia Sari** (25553012235)
+* **Amanda Bilqis Candra Winata** (2555301213)
+
+**Dosen Pengampu:** Erzi Hidayat, S.T., M.Kom 
+**Asisten Instruktur Laboran:** Hidayatul Mukmim, S.Tr.Kom
+
+---
+
+## Fitur Utama
+
+* **Autentikasi Pengguna:** Sistem Login, Registrasi akun baru, dan Logout dengan profil pengguna dinamis.
+* **Dashboard Interaktif:** Ringkasan jumlah data kebun, hama, penyakit, catatan monitoring, grafik donat statistik kondisi lapangan (Chart.js), serta daftar riwayat monitoring terbaru.
+* **Master Data Kebun (CRUD):** Pengelolaan nama kebun, pemilik, lokasi, dan luas lahan.
+* **Master Data Hama (CRUD):** Inventarisasi nama hama, gejala serangan, dan cara penanganan berdasarkan referensi pertanian.
+* **Master Data Penyakit (CRUD):** Inventarisasi nama penyakit, gejala umum, dan langkah penanganan.
+* **Aktivitas Monitoring (CRUD):** Pencatatan tanggal pemeriksaan, kebun yang diperiksa, jenis gangguan (Hama / Penyakit / Sehat), nama gangguan, dan keterangan kondisi lapangan.
+* **Pencarian Real-Time:** Fitur penyaringan data instan pada setiap tabel kelola data.
+
+> **Catatan Ruang Lingkup:** Informasi gejala dan penanganan pada sistem ini bersifat referensi awal untuk pencatatan dan tidak menggantikan diagnosis langsung dari tenaga ahli perkebunan
+
+---
+
+## Teknologi yang Digunakan
+
+* **Framework Backend:** Laravel (PHP 8.3)
+* **Frontend:** HTML5, CSS3, Bootstrap 5, Bootstrap Icons, Chart.js
+* **Database:** MySQL / MariaDB
+
+---
+
+## Cara Instalasi & Menjalankan Proyek
+
+1. **Clone repositori ini:**
+   ```bash
+   git clone <url-repositori-github-kamu>
+   cd simhasa
