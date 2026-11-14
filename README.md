@@ -61,9 +61,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 # SIMHASA — Sistem Informasi Monitoring Hama & Penyakit Tanaman Kelapa Sawit Berbasis Web
 
-**SIMHASA** adalah aplikasi web yang dirancang untuk membantu pencatatan dan pengelolaan data kebun kelapa sawit, referensi hama, referensi penyakit, serta riwayat monitoring kondisi lapangan secara terstruktur[cite: 16, 19].
+**SIMHASA** adalah aplikasi web yang dirancang untuk membantu pencatatan dan pengelolaan data kebun kelapa sawit, referensi hama, referensi penyakit, serta riwayat monitoring kondisi lapangan secara terstruktur
 
-Proyek ini disusun untuk memenuhi tugas mata kuliah **Bengkel Pemrograman Framework** pada **Program Studi Teknik Informatika, Politeknik Caltex Riau (2026)**[cite: 16].
+Proyek ini disusun untuk memenuhi tugas mata kuliah **Bengkel Pemrograman Framework** pada **Program Studi Teknik Informatika, Politeknik Caltex Riau (2026)**
 
 ---
 
